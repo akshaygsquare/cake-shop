@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+h1{
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    left: 50%;
+    top: 140px;
+    font-size: 60px;
+}
+
+.visit-today{
+    color: black;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 50%;
+    top: 105px;
+}
+.top-container{
+    width: 100%;
+    height: 400px;
+    background-image: url(https://media.istockphoto.com/photos/delicious-homemade-chocolate-cake-picture-id628711890?k=6&m=628711890&s=612x612&w=0&h=VVtdL5CiMLEMEwO_5_WyViLyMH6bujToHiVKpe5fga0=);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
