@@ -3,6 +3,7 @@ body{
 }
 
 .intro{
+    width: 50%;
     font-family: cursive;
     color: white;
   }
