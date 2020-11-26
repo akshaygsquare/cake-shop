@@ -11,6 +11,7 @@ body{
     font-family: sans-serif;
     color: white;
     text-align: center;
+    width: auto;
     height: fit-content;
     background: rgba(0, 0, 0, 0.5);
     
@@ -22,6 +23,7 @@ body{
 
 .middle-container{
     background: white;
+    width: auto;
 
 }
 .container{
@@ -32,4 +34,18 @@ body{
 .bottom-container{
     background: white;
 
+}
+
+.specialities{
+    height: 100px;
+   
+}
+
+.grid{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.row{
+    text-align: center;
 }
