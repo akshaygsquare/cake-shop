@@ -6,6 +6,7 @@ body{
     background-attachment: fixed;
 }
 .everything{
+    margin: 0 auto;
     padding: 0 5%;
     width: fit-content;
    }
@@ -45,7 +46,6 @@ body{
 }
 
 .grid{
-    width: 80%;
     margin: 0 auto;
 }
 
