@@ -7,6 +7,7 @@ body{
 }
 .everything{
     padding: 0 5%;
+    width: fit-content;
    }
 
 .top-container{
