@@ -12,7 +12,7 @@ body{
    }
 
 .top-container{
-    font-family: sans-serif;
+    font-family: 'Pacifico', cursive;
     color: white;
     text-align: center;
     width: auto;
@@ -26,6 +26,7 @@ body{
 }
 
 .middle-container{
+    font-family: 'Yellowtail', cursive;
     padding: 50px 0 100px;
     background: white;
     width: auto;
@@ -34,7 +35,7 @@ body{
 
 
 .bottom-container{
-    font-family: sans-serif;
+    font-family: 'Yellowtail', cursive;
     color: white;
     text-align: center;
     width: auto;
@@ -56,3 +57,9 @@ body{
     text-align: center;
 }
 
+.footer-container{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding: 25px;
+    background-color: white;
+}
